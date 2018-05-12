@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6909
     wikipedia: http://en.wikipedia.org/wiki/Theophilus_Gould_Steward
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38383#Memoirs-of-Mrs.-Rebecca-Steward
 gutenberg_issued: '2011-12-22'
 gutenberg_type: Text
 identifiers:
